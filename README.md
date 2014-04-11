@@ -1,7 +1,7 @@
 XNA-FPS
 =======
 
-A 3-D First Person Shooter game using XNA
+A 3-D First Person Shooter prototype game using XNA
 
 Screenshots:
 ------------
